@@ -1,4 +1,13 @@
-## Hi there 👋
+## Oscila is an umbrella organization with an intent to democratize education. 
+
+# Following github organization 
+
+- Dvijaha (intends to democratize compute, graphics and education with crowdsourcing support)
+- Dhvana  (intends to democratize digital audio tools)
+- IPES    (intends to democratize education tools)
+- IPLS    (intends to democratize compute)
+- IPCS    (intends to add Control system to self organization)
+- IPSO    (intends to add Self Organization to system)
 
 <!--
 
