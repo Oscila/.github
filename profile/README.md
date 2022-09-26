@@ -1,6 +1,6 @@
 ## Oscila is an umbrella organization with an intent to democratize education. 
 
-# Following github organization 
+### Following github organization 
 
 - Dvijaha (intends to democratize compute, graphics and education with crowdsourcing support)
 - Dhvana  (intends to democratize digital audio tools)
